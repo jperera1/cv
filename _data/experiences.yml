@@ -1,35 +1,32 @@
 - experience:
-  role: PhD Candidate
-  time: Aug 2016 - present
-  company: Duke Immunology Department /<br> Duke Brain Tumor Immunotherapy Program (Durham, NC)
-  details: "<i>Advisors</i>: Prof. John Sampson and Prof. Michael Dee Gunn <br> <i>Project</i>: Disrupted Calcium Signaling Results in Long-term Survival and Checkpoint Blockade Sensitivity in Glioblastoma"
+  role: Summer Research Scholar
+  time: June 2021 - Present 
+  company: Harvard-MIT HST-Wellman - Lin Lab
+  details: "<i>Advisor</i>: Christa Haase, Ph.D., Charles Lin, Ph.D. <br> <i>Project</i>: Using Spatial Transcriptomics  to explore Regional DOMAINS of Bone Marrow during Bone-Remodeling"
 - experience:
-  role: Data Analysis for Genomics Certificate
-  time: July 2020 - Dec. 2020
-  company: HarvardX
-  details: "<i>Advisors</i>: Prof. Rafael Irizarry <br> <i>Project</i>: Series of online courses that taught how to utilize open source software to structure analyze and interpret genome scale data"
-- experience:
-  role: Data Science Certificate
-  time: April 2020 - June 2020
-  company: HarvardX
-  details: Advisor - Prof. Rafael Irizarry <br> Series of online courses that culminated in a Capstone Project where Machine Learning was used to identify community risk factors for early COVID outbreaks in the USA <br> <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
-- experience:
-  role: Preclinical Safety Assessment Intern
-  time: June 2019 - Aug. 2019
-  company: Vertex Pharmaceuticals (Boston, MA)
-  details: "<i>Project</i>: Development of High Throughput Electrophysiology Screening for hi-PSC Neurons"
+  role: Undergraduate Research Fellow
+  time: June 2021 - August 2021 
+  company: The Mayo Clinic (Jacksonville, FL) - Brain Tumor Stem Cell Research Lab 
+  details: "<i>Advisor</i>: Rawan Al-Kharboosh, Rachel Sarabia-Estrada D.V.M., Ph.D., Alfredo Quinones-Hinojosa M.D. <br> <i>Project</i>: Investigating the Role of Calcium Signaling in Glioblastoma Tumor Clearance and Survival"
 - experience:
   role: Undergraduate Research Assistant
-  time: June 2015 - Jan 2016
-  company: Case Western Reserve University (Cleveland, OH)
-  details: "<i>Advisor</i>: Prof. Alex Huang <br> <i>Project</i>: CDK5 Loss Attenuates PD-L1 Expression in Medulloblastoma"
+  time: January 2020 - Present 
+  company: Duke University (Durham, NC) - Duke Brain Tumor Immunotherapy Program 
+  details: "<i>Advisor</i>: William Tomaszewksi <br> <i>Project</i>: Investigating the Role of Calcium Signaling in Glioblastoma Tumor Clearance and Survival"
 - experience:
-  role: Research and Development Intern
-  time: Oct. 2014 - June 2015
-  company: NovelMed Therapeutics (Cleveland, OH)
-  details: "<i>Project</i>: Immunotherapy Drug Development to Target the Alternative Complement Pathway in Orphan Diseases"
+  role: High School Research Assistant 
+  time: August 2017 - January 2018
+  company: The Mayo Clinic (Jacksonville, FL) - Brain Tumor Stem Cell Research Lab 
+  details: "<i>Advisors</i>: Rawan Al-Kharboosh, Alfredo Quinones-Hinojosa M.D. <i>Project</i>: An Exploration of the Immunomodulation of adipose-derived Human Mesenchymal Stem Cells with resident Immune cells in the Glioblastoma Microenvironment"
 - experience:
-  role: Undergraduate Research Assistant
-  time: Oct. 2012 - June 2015
-  company: Case Western Reserve University (Cleveland, OH)
-  details: "<i>Advisor</i>: Prof. Jeffrey Capadona <br> <i>Project</i>: Investigating the Role of Neuroinflammation in Brain Machine Interfacing"
+  role: High School Research Assistant
+  time: May 2017 - August 2017
+  company: The Mayo Clinic (Jacksonville, FL) - Brain Tumor Stem Cell Research Lab 
+  details: "<i>Advisors</i>: Rachel Sarabia-Estrada D.V.M., Ph.D., Alfredo Quinones-Hinojosa M.D. <br> <i>Project</i>: The in vitro Migration of Human Mesenchymal Stem Cells towards Metastatic Breast Cancer"
+
+
+#- experience:
+#  role: Data Science Certificate
+#  time: April 2020 - June 2020
+#  company: HarvardX
+#  details: Advisor - Prof. Rafael Irizarry <br> Series of online courses that culminated in a Capstone Project where Machine Learning was used to identify community risk factors for early COVID outbreaks in the USA <br> <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
