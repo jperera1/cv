@@ -1,6 +1,6 @@
 # Site Settings
-title: "Billy's CV"
-description: "Billy Tomaszewski - CV"
+title: "Jonathan's CV"
+description: "Jonathan Perera - CV"
 url: 'http://webjeda.com'
 baseurl: '/cv' #change it according to your repository name
 
@@ -12,20 +12,20 @@ style: styles-4
 #style: styles-6
 
 #Profile information
-name: Billy <br> <i>Tomaszewski </i>
-tagline: PhD Candidate
+name: Jonathan <br> <i>Perera </i>
+tagline: Undergraduate Student
 pic: Headshot.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Immunologist with a focus in unravelling the immune contribution to neurological disease by leveraging the advances in systems biology. Currently a PhD Candidate in the labs of Prof. John Sampson and Prof. Michael Gunn at Duke University (Durham, NC). 8 years of cross-disciplinary experience in the field of neuroimmunology has given me a unique perspective on the complex nature of the field.'
 
 #sidebar links
-email: william.tomaszewski@duke.edu
+email: jonathan.perera@duke.edu
 phone: 
-website:  #do not add http://
-linkedin: billy-tomaszewski
-github: wht10
-twitter: '@BillyTomski'
-scholar: mR7Jk7wAAAAJ
-orcid: 0000-0001-7870-3935
+website: jonathanperera10.wixsite.com/jp-portfolio/
+linkedin: jonathan-perera
+github: jperera1
+twitter: '@Bjjshark2000'
+scholar: ----------------
+orcid: 0000-0000-0000-0000 
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
