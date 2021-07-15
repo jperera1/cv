@@ -2,7 +2,7 @@
   description: " "
 - skill:
   title:
-  details: "<strong>Experimental </strong> - Flow cytometry (15-color), ELISA development, Immunohistochemistry, Fluorescence microscopy, Chromogenic assays, Transwell migration assay, PCR, qRT-PCR, Proliferation assay, Neuron and Astrocyte hiPSC culture systems, Cerebral Organoid systems, in-vitro Electrophysiology, Pipetting Automation, Liquid Handling, AAV and Lentivirus Expression Systems, Animal handling (rodents), Tumorigenicity, Transcardial Perfusion, Adoptive Transfer, Bone Marrow Chimera Generation, Stereotactic Intracranial Injection, Biodistribution assays, Bioluminescence for Tumor Progression"
+  details: "<strong>Experimental </strong> - Cell Culture, Pipetting, Liquid Handling, Immunohistochemistry, Transwell Migration Assays, qRT-PCR, In Vivo Cell Tracking: DiR, Histology, Proliferation assay,  Tissue Sectioning – Cryostat, Animal handling (rodents)  Murine SubQ Injections, Murine SubQ Tumor Measurement, Stereotactic Intracranial Injection and Surgery, Confocal Microscopy, Bioluminescence for Tumor Progression "
 - skill:
   title:
-  details: "<br><strong>Computational </strong> - FlowJo, Autodesk, Graphpad PRISM, MATLAB, Imaris, FIJI, Inkscape, Endnote, Machine Learning - R, Data Visualization – R, Linear Regression – R, Data Wrangling – R, Statistical Probability and Inference - R, RNA-seq Alignment - STAR, Cluster Computing, Differential Expression, Pathway Analysis, scRNAseq Alignment - CellRanger, Seurat"
+  details: "<br><strong>Computational </strong> - Autodesk, Python, R, MATLAB, Imaris, Data Visualization – R, Linear Regression – R, Data Wrangling – R, Statistical Probability and Inference - R, RNA-seq - Cluster Computing, Differential Expression, scRNAseq – Seurat, Spatial Transcriptomic Analysis – Giotto, Graph Convolutional Neural Network - Python, MNIST Convolutional Neural Network- Python"
