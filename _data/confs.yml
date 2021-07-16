@@ -1,20 +1,20 @@
 - intro:
   description: " "
 - conf:
-  title: Targeting Immunometabolism in Glioblastoma
-  link: "https://www.frontiersin.org/articles/10.3389/fonc.2021.696402/full"
-  authors: "Mohan AA, <ins>Tomaszewski WH</ins>, Haskell-Mendoza AP, Hotchkiss KM, Singh K, Reedy JL, Fecci PE, Sampson JH, Khasraw M"
-  journal: "Frontiers in Oncology. 2021 June. doi:10.3389/fonc.2021.696402"
-  details: 
+  title: CaMKK2 deletion increases antitumor potential through enhanced MHC-II expression in Macrophages
+  #link: "https://www.frontiersin.org/articles/10.3389/fonc.2021.696402/full"
+  authors:  "<ins>Perera JJ</ins>, Tomaszewski WH, Polania JW, Racioppi L, Sanchez-Perez LA, Gunn MD, Sampson JH" 
+  journal: "AAI Virtual Immunology 2021."
+  details:
 - conf:
-  title: Brain Tumor Microenvironment and Host State Implications for Immunotherapy
-  link: "https://clincancerres.aacrjournals.org/content/25/14/4202"
-  authors: "<ins>Tomaszewski WH</ins>, Sanchez-Perez L, Gajewski TF, Sampson JH"
-  journal: "Clinical Cancer Research. 2019 July. doi: 10.1158/1078-0432.ccr-18-1627"
-  details: 
+  title: Human adipose-derived mesenchymal stem cell immunomodulation of microglia in Glioblastoma
+  #link: "https://clincancerres.aacrjournals.org/content/25/14/4202"
+  authors: "Bhargav A<sup>*</sup>, Al-kharboosh R<sup>*</sup>, <ins>Perera J</ins>, Garcia C, Quinones-Hinojosa A"
+  journal: "American Association of Neurological Surgeons 2019. San Diego CA, United States*"
+  details:
 - conf:
-  title: The Role of Toll-Like Receptor 2 and 4 Innate Immunity Pathways in Intracortical Microelectrode Induced Neuroinflammation
-  link: "https://www.frontiersin.org/articles/10.3389/fbioe.2018.00113/full"
-  authors: "Hermann JK, Lin S, Soffer A, Wong C, Srivastava V, Chang J, Sunil S, Sudhakar S, <ins>Tomaszewski WH</ins>, Protasiewicz G, Selkirk SM, Miller RH, Capadona JR"
-  journal: "Frontiers in Bioengineering and Biotechnology. 2018 August. doi: 10.3389/fbioe.2018.00113"
-  details: 
+  title: Systemically administered therapeutic human mesenchymal stem cells (hMSCs) using non-invasive and transient MRI-guided disruption of the BBB
+  #link: "https://www.frontiersin.org/articles/10.3389/fbioe.2018.00113/full"
+  authors: "Al-kharboosh R, Ellenns N, Cheng K, <ins>Perera J</ins>,Rotman M, Green JJ, Quinones-Hinojosa A"
+  journal: "Congress of Neurosurgery 2017. Neuro-Oncology, 19(Suppl 6), vi227. https://doi.org/10.1093/neuonc/nox168.921"
+  details:
