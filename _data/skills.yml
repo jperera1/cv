@@ -2,7 +2,11 @@
   description: " "
 - skill:
   title:
-  details: "<strong>Experimental </strong> - Cell Culture, Pipetting, Liquid Handling, Immunohistochemistry, Transwell Migration Assays, qRT-PCR, In Vivo Cell Tracking: DiR, Histology, Proliferation assay,  Tissue Sectioning – Cryostat, Animal handling (rodents)  Murine SubQ Injections, Murine SubQ Tumor Measurement, Stereotactic Intracranial Injection and Surgery, Confocal Microscopy, Bioluminescence for Tumor Progression "
+  details: "<strong>Experimental </strong>: Cell Culture, Pipetting, Liquid Handling, Immunohistochemistry, Transwell Migration Assays, qRT-PCR, In Vivo Cell Tracking: DiR, Histology, Proliferation assay,  Tissue Sectioning – Cryostat, Animal handling (rodents)  Murine SubQ Injections, Murine SubQ Tumor Measurement, Stereotactic Intracranial Injection and Surgery, Confocal Microscopy, Bioluminescence for Tumor Progression "
 - skill:
   title:
-  details: "<br><strong>Computational </strong> - Autodesk, Python, R, MATLAB, Imaris, Data Visualization – R, Linear Regression – R, Data Wrangling – R, Statistical Probability and Inference - R, RNA-seq - Cluster Computing, Differential Expression, scRNAseq – Seurat, Spatial Transcriptomic Analysis – Giotto, Graph Convolutional Neural Network - Python, MNIST Convolutional Neural Network- Python"
+  details: "<br><strong>Computational </strong>: Autodesk, Python, R, MATLAB, Imaris, Data Visualization – R, Linear Regression – R, Data Wrangling – R, Statistical Probability and Inference - R, RNA-seq - Cluster Computing, Differential Expression, scRNAseq – Seurat, Spatial Transcriptomic Analysis – Giotto, Graph Convolutional Neural Network - Python, MNIST Convolutional Neural Network- Python"
+- skill:
+  title:
+  details: "<strong>Design & Prototyping</strong>: Iterative Design Process and Ideation, Brainstorming skills, Gantt Charts, Pugh Screening anf Scoring Matrix, 3D Design (CAD) - Fusion360/Onshape, 3D Printing, Mechanical Drawings, Breadboard Testing, Solution Testing, Soldering, PCB Board Design & Simulation - KiCad, PCB Soldering, Foam Hot Wire Cutting, Cardboard modelling, Concrete Work, Electric Sanding"
+-
