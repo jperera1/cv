@@ -16,8 +16,8 @@ style: styles
 name: Jonathan <br> <i>Perera </i>
 tagline: Undergraduate Student
 pic: Headshot.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Immunologist with a focus in unravelling the immune contribution to neurological disease by leveraging the advances in systems biology. Currently a PhD Candidate in the labs of Prof. John Sampson and Prof. Michael Gunn at Duke University (Durham, NC). 8 years of cross-disciplinary experience in the field of neuroimmunology has given me a unique perspective on the complex nature of the field.'
-#Aspiring physician-scientist with a passion for exploring the potential for regenerative and stem cell therapies at the intersection of bioinformatics 
+summary: "Aspiring physician-scientist with a passion for exploring the neuroregenerative and protective capabilities of stem cell therapies through the lens of bioinformatics, cell biology, and immunotherapy. Currently an undergraduate student studying Biomedical Engineering at Duke University and working on completing research projects in-person and remotely at the Sampson Lab (Duke), Quinones Lab (Mayo Clinic), Lin Lab (Harvard-MIT). With both wet-lab and computational experience, I am uniquely placed to investigate the intricate field of neuropathology."
+
 #sidebar links
 email: jonathan.perera@duke.edu
 phone: 
