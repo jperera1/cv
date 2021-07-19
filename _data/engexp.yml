@@ -2,7 +2,7 @@
   role: Variable Light Box 
   time: June 2021 - Present 
   company: BME Design Fellows Course, Duke University 
-  details: "<i>Advisor</i>: Mark Palmeri, MD, PhD. <br> <i>Project</i>: Created a lightbox enclosure with an LED with main capabilities of modulating brightness from “off” to maximum brightness and toggle between continuous and blinking modes (2 Hz, 50% Duty Cycle) (Pulse Width Modulation). Utilized KiCAD to design and print circuit board, electrical simulation and module testing. Crafted medium fidelity prototypes 3-D printed plastics with OnShape simulation testing."
+  details: "<i>Advisor</i>: Mark Palmeri, MD, PhD. <br> <i>Project</i>: Created a lightbox enclosure with an LED with main capabilities of modulating brightness from “off” to maximum brightness and toggle between continuous and blinking modes (2 Hz, 50% Duty Cycle) (Pulse Width Modulation)." #Utilized KiCAD to design and print circuit board, electrical simulation and module testing. Crafted medium fidelity prototypes 3-D printed plastics with OnShape simulation testing."
 - experience: 
   role: F1-style Steering Wheel & Drag Reduction System (DRS) 
   time: June 2021 - Present 
