@@ -6,10 +6,10 @@
 {% for award in site.data.awards %}
   <div class="item-condensed">
     <div class="meta">
-     <div class="company">{{ award.inst }}</div>
       <div class="upper-row">
-        <h4 class="job-title right">{{ award.title }}</h4>
         <div class="time-left">{{ award.year }}</div>
+        <h4 class="job-title right">{{ award.title }}</h4>
+        <div class="company">{{ award.inst }}</div>
       </div><!--//upper-row-->
     </div><!--//meta-->
   </div><!--//item-->
