@@ -1,24 +1,31 @@
 - intro:
   description: " "
 - award:
-  title: Yao Su Student Research Award, Harvard-MIT HST-Wellman Summer Institute 
+  title: Yao Su Student Research Award 
+  inst: Harvard-MIT HST-Wellman Summer Institute
   year: 2021
 - award:
-  title: Research Scholar, Harvard-MIT HST-Wellman Summer Institute
+  title: Research Scholar
+  inst: Harvard-MIT HST-Wellman Summer Institute
   year: 2021
 - award:
-  title: SURF Research Fellow, Mayo Clinic 
+  title: SURF Research Fellow
+  inst: Mayo Clinic 
   year: 2021
 - award:
-  title: URS Conference Travel Grant, Duke University 
+  title: URS Conference Travel Grant 
+  inst: Duke University
   year: 2021
 - award:
-  title: BME Design Fellow, Duke University 
+  title: BME Design Fellow
+  inst: Duke University 
   year: 2021
 - award:
-  title: Katsouleas NAE Grand Challenge Scholar, Duke University 
+  title: Katsouleas NAE Grand Challenge Scholar 
+  inst: Duke University
   year: 2019
 - award:
-  title: SPARK Research Scholar, Mayo Clinic 
+  title: SPARK Research Scholar 
+  inst: Mayo Clinic
   year: 2017
 
