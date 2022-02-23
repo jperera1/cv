@@ -7,7 +7,7 @@
   role: Duke House Course, Creator and Instructor
   time: January 2022 - Present 
   company: "The Science and Social Impact of Emerging Medical Technologies"
-  details: Course Syllabus
+  details: <li class="Course Syllabus"><i class="fa fa-globe"></i><a href="http://jonathanperera10.wixsite.com/jp-portfolio/" target="_blank">{{site.website}}</a></li>
 - experience:
   role: Business Manager, VP of Internal Affairs
   time: August 2018 - Present 
